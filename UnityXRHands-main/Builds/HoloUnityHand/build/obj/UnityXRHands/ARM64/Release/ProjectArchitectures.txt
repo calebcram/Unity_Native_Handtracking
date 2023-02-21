@@ -1,0 +1,1 @@
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\UnityXRHands\UnityXRHands.vcxproj;arm64

@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  App.cpp
+  Main.cpp
+  UnityGenerated.cpp
+     Creating library E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\build\bin\ARM64\Release\UnityXRHands.lib and object E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\build\bin\ARM64\Release\UnityXRHands.exp
+  Generating code
+  Finished generating code
+  UnityXRHands.vcxproj -> E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\build\bin\ARM64\Release\UnityXRHands.exe
+  UnityXRHands -> C:\Users\caleb\Downloads\HoloLens2\UnityHandsHolo\UnityXRHands_1.0.0.0_ARM64_Test\UnityXRHands_1.0.0.0_ARM64.appx
+  UnityXRHands -> E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\build\obj\UnityXRHands\ARM64\Release\Symbols\UnityXRHands_1.0.0.0_ARM64.appxsym

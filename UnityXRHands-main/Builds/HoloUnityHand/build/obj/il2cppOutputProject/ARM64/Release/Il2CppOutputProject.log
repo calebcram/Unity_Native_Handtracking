@@ -1,0 +1,902 @@
+﻿  Building GameAssembly.dll with MsvcWinRtToolChain
+  	Msvc Install Version: 17.0
+  	Msvc Install SDK Directory: C:\Program Files (x86)\Windows Kits\10
+  	Msvc Linker Path: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX64\ARM64\link.exe
+  	Msvc Compiler Path: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX64\ARM64\cl.exe
+  
+  	Output directory: E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\build\bin\ARM64\Release
+  	Cache directory: E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\build\obj\il2cppOutputProject\ARM64\Release
+  pch-c.c
+  pch-cpp.cpp
+  mscorlib_CodeGen.c
+  Il2CppCCalculateTypeValues.cpp
+  Il2CppInteropDataTable.cpp
+  Il2CppCCalculateFieldValues.cpp
+  Il2CppGenericMethodPointerTable.c
+  Il2CppMetadataUsage.c
+  Unity.XR.ARSubsystems.cpp
+  Il2CppTypeDefinitions.c
+  Generics14.cpp
+  Il2CppCCalculateFieldValues1.cpp
+  Generics29.cpp
+  Generics30.cpp
+  Generics15.cpp
+  Generics27.cpp
+  GenericMethods3.cpp
+  Unity.XR.ARFoundation.cpp
+  GenericMethods1.cpp
+  Generics26.cpp
+  Unity.InputSystem9.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\Unity.InputSystem9.cpp(40120): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Generics16.cpp
+  Il2CppPCCWMethods.cpp
+  Generics31.cpp
+  Unity.InputSystem8.cpp
+  Generics1.cpp
+  GenericMethods9.cpp
+  GenericMethods7.cpp
+  Microsoft.MixedReality.OpenXR.cpp
+  UnityEngine.UIElementsModule2.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule2.cpp(18266): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Generics43.cpp
+  Generics25.cpp
+  Il2CppGenericInstDefinitions.c
+  mscorlib17.cpp
+  Il2CppInvokerTable.cpp
+  Unity.InputSystem2.cpp
+  Unity.InputSystem_CodeGen.c
+  GenericMethods6.cpp
+  Il2CppCCWs63.cpp
+  Unity.InputSystem.cpp
+  Generics49.cpp
+  Generics42.cpp
+  System.cpp
+  Unity.InputSystem7.cpp
+  GenericMethods11.cpp
+  UnityEngine.CoreModule1.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.CoreModule1.cpp(11439): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Generics23.cpp
+  Unity.InputSystem6.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\Unity.InputSystem6.cpp(34198): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Generics32.cpp
+  Generics28.cpp
+  UnityEngine.UIElementsModule.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule.cpp(38916): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Unity.InputSystem5.cpp
+  mscorlib8.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\mscorlib8.cpp(12741): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Generics17.cpp
+  GenericMethods.cpp
+  UnityEngine.UIElementsModule3.cpp
+  Unity.InputSystem4.cpp
+  Generics50.cpp
+  Generics45.cpp
+  GenericMethods10.cpp
+  Unity.XR.OpenXR.cpp
+  GenericMethods4.cpp
+  UnityEngine.UIElementsModule_CodeGen.c
+  Generics.cpp
+  UnityEngine.UIElementsModule5.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule5.cpp(33238): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  UnityEngine.UIElementsModule7.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule7.cpp(15417): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  UnityEngine.UIElementsModule4.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule4.cpp(10787): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  UnityEngine.CoreModule.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.CoreModule.cpp(14849): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Generics2.cpp
+  Unity.InputSystem10.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\Unity.InputSystem10.cpp(30260): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Generics8.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\Generics8.cpp(15858): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Generics48.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\Generics48.cpp(29890): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  mscorlib16.cpp
+  mscorlib2.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\mscorlib2.cpp(27846): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Unity.InputSystem1.cpp
+  UnityEngine.UIElementsModule1.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule1.cpp(9387): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  UnityEngine.UI.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UI.cpp(19971): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Generics46.cpp
+  Generics4.cpp
+  Generics21.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\Generics21.cpp(22121): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  mscorlib13.cpp
+  Il2CppGenericAdjustorThunkTable.c
+  Generics5.cpp
+  GenericMethods8.cpp
+  Generics3.cpp
+  Generics18.cpp
+  mscorlib20.cpp
+  mscorlib14.cpp
+  mscorlib5.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\mscorlib5.cpp(8648): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Generics7.cpp
+  mscorlib1.cpp
+  Generics41.cpp
+  UnityEngine.UIElementsModule9.cpp
+  UnityEngine.UI3.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UI3.cpp(10160): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  UnityEngine.UI2.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UI2.cpp(5868): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  UnityEngine.UIElementsModule11.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule11.cpp(22451): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  mscorlib6.cpp
+  Generics6.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\Generics6.cpp(27208): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Generics20.cpp
+  UnityEngine.UIElementsModule8.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule8.cpp(20874): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  mscorlib9.cpp
+  Generics51.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\Generics51.cpp(28337): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  UnityEngine.UI1.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UI1.cpp(30188): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Generics24.cpp
+  mscorlib7.cpp
+  Generics19.cpp
+  Generics47.cpp
+  UnityEngine.TextCoreTextEngineModule2.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.TextCoreTextEngineModule2.cpp(7931): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Unity.XR.ARFoundation1.cpp
+  Unity.InputSystem3.cpp
+  UnityEngine.UIElementsModule10.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule10.cpp(25339): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Generics52.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\Generics52.cpp(21541): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Generics44.cpp
+  System3.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\System3.cpp(16399): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  mscorlib15.cpp
+  mscorlib4.cpp
+  GenericMethods2.cpp
+  mscorlib.cpp
+  Il2CppGenericClassTable.c
+  Il2CppCCWs76.cpp
+  mscorlib11.cpp
+  UnityEngine.UIElementsModule6.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule6.cpp(8887): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Generics12.cpp
+  UnresolvedVirtualCallStubs.cpp
+  Generics54.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\Generics54.cpp(25080): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Il2CppGenericMethodTable.c
+  mscorlib19.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\mscorlib19.cpp(18036): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Mono.Security.cpp
+  Generics22.cpp
+  Generics10.cpp
+  GenericMethods5.cpp
+  Generics13.cpp
+  mscorlib3.cpp
+  mscorlib10.cpp
+  Generics11.cpp
+  UnityEngine.IMGUIModule.cpp
+  Generics39.cpp
+  Generics9.cpp
+  Il2CppCCWs71.cpp
+  Unity.XR.CoreUtils.cpp
+  Il2CppGenericMethodDefinitions.c
+  Generics53.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\Generics53.cpp(21550): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Generics35.cpp
+  Generics40.cpp
+  mscorlib18.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\mscorlib18.cpp(21405): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Generics36.cpp
+  Generics38.cpp
+  mscorlib21.cpp
+  Generics37.cpp
+  Generics33.cpp
+  Generics34.cpp
+  Il2CppCCWs65.cpp
+  UnityEngine.CoreModule_CodeGen.c
+  mscorlib12.cpp
+  Il2CppCCWs58.cpp
+  UnityEngine.UIElementsModule12.cpp
+  System2.cpp
+  UnityEngine.CoreModule2.cpp
+  System.Runtime.WindowsRuntime.cpp
+  Il2CppCCWs66.cpp
+  Il2CppCCWs67.cpp
+  Unity.XR.ARSubsystems_CodeGen.c
+  Il2CppCCWs70.cpp
+  System4.cpp
+  System1.cpp
+  Il2CppCCWs73.cpp
+  Il2CppCCWs57.cpp
+  Unity.XR.ARSubsystems1.cpp
+  Il2CppCCWs68.cpp
+  Il2CppCCWs62.cpp
+  Il2CppCCTypeValuesTable.cpp
+  Unity.XR.Hands.cpp
+  Il2CppCCWs74.cpp
+  GenericMethods12.cpp
+  UnityEngine.UI_CodeGen.c
+  System.Numerics.cpp
+  Il2CppCCWs19.cpp
+  Il2CppCCWs29.cpp
+  I18N.CJK.cpp
+  UnityEngine.AndroidJNIModule.cpp
+  Il2CppCCWs27.cpp
+  Il2CppCCWs28.cpp
+  dictionary.c
+  System_CodeGen.c
+  Il2CppCCWs77.cpp
+  Il2CppCCWs75.cpp
+  I18N.cpp
+  Mono.Security1.cpp
+  Il2CppCCWs87.cpp
+  Il2CppRgctxTable.c
+  UnityEngine.XRModule.cpp
+  char-conversions.cpp
+  Il2CppCCWs17.cpp
+  UnityEngine.TextCoreTextEngineModule3.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.TextCoreTextEngineModule3.cpp(6230): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Il2CppCCWs18.cpp
+  Il2CppCCWs81.cpp
+  Il2CppCCWs59.cpp
+  Unity.XR.ARFoundation_CodeGen.c
+  Il2CppCCWs86.cpp
+  Il2CppCCWs78.cpp
+  UnityEngine.UIElementsNativeModule.cpp
+  Unity.InputSystem11.cpp
+  WindowsRuntimeMetadata.cpp
+  Il2CppCCWs23.cpp
+  System.Core.cpp
+  Il2CppCCWs20.cpp
+  UnityEngine.TextCoreTextEngineModule1.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.TextCoreTextEngineModule1.cpp(8430): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  I18N.Rare2.cpp
+  I18N.Rare.cpp
+  I18N.Rare1.cpp
+  Il2CppCCWs34.cpp
+  Il2CppCCWs30.cpp
+  Il2CppCCWs1.cpp
+  Il2CppCCWs21.cpp
+  Il2CppCCWs22.cpp
+  Il2CppCCWs24.cpp
+  Il2CppCCWs61.cpp
+  Il2CppCCWs33.cpp
+  Il2CppCCFieldValuesTable.cpp
+  I18N.West.cpp
+  I18N.Rare4.cpp
+  Il2CppCCalculateTypeValues1.cpp
+  I18N.Rare3.cpp
+  Il2CppCCWs72.cpp
+  Il2CppCCWs.cpp
+  I18N.Other.cpp
+  Il2CppCCWs60.cpp
+  Il2CppCCWs84.cpp
+  Il2CppCCWs64.cpp
+  Il2CppCCWs83.cpp
+  Il2CppCCWs35.cpp
+  Il2CppCCWs26.cpp
+  Il2CppCCWs80.cpp
+  Il2CppCCWs16.cpp
+  Microsoft.MixedReality.OpenXR_CodeGen.c
+  UnityEngine.TextCoreTextEngineModule.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.TextCoreTextEngineModule.cpp(6430): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Unity.XR.OpenXR_CodeGen.c
+  UnityEngine.TextCoreFontEngineModule.cpp
+  UnityEngine.UIModule.cpp
+  UnityEngine.AnimationModule.cpp
+  Assembly-CSharp.cpp
+  I18N.West1.cpp
+  Generics55.cpp
+  I18N.MidEast.cpp
+  Il2CppCCWs79.cpp
+  UnityEngine.TerrainModule.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.TerrainModule.cpp(3804): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Il2CppCCWs85.cpp
+  Il2CppCCWs69.cpp
+  UnityEngine.TextRenderingModule.cpp
+  UnityEngine.SubsystemsModule.cpp
+  Unity.XR.Management.cpp
+  UnityEngine.Physics2DModule.cpp
+  Il2CppCCWs56.cpp
+  UnityEngine.PhysicsModule.cpp
+  Il2CppCCWs2.cpp
+  Il2CppCCWs55.cpp
+  Il2CppCCWs40.cpp
+  System.Core_CodeGen.c
+  Il2CppCCWs32.cpp
+  UnityEngine.InputLegacyModule.cpp
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.InputLegacyModule.cpp(1979): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(35): warning C4309: 'return': truncation of constant value
+  Unity.XR.OpenXR.Features.MockRuntime.cpp
+  Unity.XR.CoreUtils_CodeGen.c
+  Il2CppCCWs48.cpp
+  UnityEngine.IMGUIModule_CodeGen.c
+  Il2CppCCWs45.cpp
+  Il2CppCCWs37.cpp
+  Il2CppCCWs82.cpp
+  UnityEngine.SpatialTracking.cpp
+  Il2CppCCWs25.cpp
+  UnityEngine.TextCoreTextEngineModule_CodeGen.c
+  Il2CppCCWs51.cpp
+  System.Runtime.WindowsRuntime_CodeGen.c
+  Il2CppCCWs36.cpp
+  Il2CppCCWs42.cpp
+  UnityEngine.SharedInternalsModule.cpp
+  Il2CppCCWs49.cpp
+  Il2CppCCWs47.cpp
+  UnityEngine.TilemapModule.cpp
+  Il2CppCCWs43.cpp
+  Mono.Security_CodeGen.c
+  Il2CppCCWs50.cpp
+  Il2CppCCWs44.cpp
+  Il2CppCCWs41.cpp
+  Il2CppCCWs53.cpp
+  dictionary_hash.c
+  Il2CppCCWs54.cpp
+  Il2CppCCWs38.cpp
+  Il2CppCCWs52.cpp
+  Il2CppCCWs46.cpp
+  Il2CppCCWs39.cpp
+  UnityEngine.UIElementsNativeModule_CodeGen.c
+  Il2CppGenericComDefinitions.cpp
+  UnityEngine.VFXModule.cpp
+  Il2CppCCWs31.cpp
+  UnityEngine.AudioModule.cpp
+  __Generated.cpp
+  UnityEngine.ParticleSystemModule.cpp
+  UnityEngine.UnityAnalyticsModule.cpp
+  I18N.Rare5.cpp
+  I18N.Rare_CodeGen.c
+  Il2CppCCWs10.cpp
+  Il2CppCCWs9.cpp
+  __Generated_CodeGen.c
+  deflate.c
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\external\zlib\deflate.c(1915): warning C4244: '=': conversion from 'ush' to 'uchf', possible loss of data
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\external\zlib\deflate.c(2040): warning C4244: '=': conversion from 'ush' to 'uchf', possible loss of data
+E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\Il2CppOutputProject\IL2CPP\external\zlib\deflate.c(2150): warning C4244: '=': conversion from 'ush' to 'uchf', possible loss of data
+  Il2CppCCWs8.cpp
+  WindowsRuntimeMetadata_CodeGen.c
+  Il2CppCCWs11.cpp
+  UnityEngine.AndroidJNIModule_CodeGen.c
+  Il2CppCCWs15.cpp
+  UnityEngine.VideoModule.cpp
+  I18N.CJK_CodeGen.c
+  Unity.XR.OpenXR.Features.ConformanceAutomation.cpp
+  UnityEngine.XRModule_CodeGen.c
+  Il2CppCCWs5.cpp
+  Il2CppCCWs4.cpp
+  Il2CppCCWs7.cpp
+  Il2CppCCWs12.cpp
+  UnityEngine.InputModule.cpp
+  UnityEngine.TextCoreFontEngineModule_CodeGen.c
+  Unity.XR.Hands_CodeGen.c
+  Il2CppCCWs6.cpp
+  Il2CppCCWs13.cpp
+  Il2CppCCWs3.cpp
+  brotli_bit_stream.c
+  inflate.c
+  Il2CppCCWs14.cpp
+  Unity.XR.OpenXR.Features.RuntimeDebugger.cpp
+  trees.c
+  UnityEngine.SubsystemsModule_CodeGen.c
+  crc32.c
+  System.Configuration.cpp
+  xamarin_getifaddrs.c
+  UnityEngine.JSONSerializeModule.cpp
+  UnityEngine.UIModule_CodeGen.c
+  encode.c
+  UnityEngine.UnityWebRequestModule.cpp
+  I18N_CodeGen.c
+  Unity.XR.Management_CodeGen.c
+  UnityEngine.AnimationModule_CodeGen.c
+  decode.c
+  UnityEngine.AssetBundleModule.cpp
+  System.Numerics_CodeGen.c
+  backward_references_hq.c
+  I18N.West_CodeGen.c
+  I18N.Other_CodeGen.c
+  gzread.c
+  UnityEngine.PhysicsModule_CodeGen.c
+  gzwrite.c
+  UnityEngine.Physics2DModule_CodeGen.c
+  metablock.c
+  UnityEngine.SharedInternalsModule_CodeGen.c
+  infback.c
+  UnityEngine.InputLegacyModule_CodeGen.c
+  il2cpp-mono-api.cpp
+  Unity.XR.OpenXR.Features.MockRuntime_CodeGen.c
+  System.Runtime.WindowsRuntime.UI.Xaml.cpp
+  gzlib.c
+  UnityEngine.TextRenderingModule_CodeGen.c
+  UnityEngine.TilemapModule_CodeGen.c
+  UnityEngine.AIModule.cpp
+  entropy_encode.c
+  inffast.c
+  inftrees.c
+  UnityEngine.SpatialTracking_CodeGen.c
+  UnityEngine.VRModule.cpp
+  Unity.XR.OpenXR.Features.MetaQuestSupport.cpp
+  UnityEngine.TerrainModule_CodeGen.c
+  il2cpp-api.cpp
+  Il2CppReversePInvokeWrapperTable.cpp
+  I18N.MidEast_CodeGen.c
+  UnityEngine.DirectorModule.cpp
+  compress_fragment_two_pass.c
+  UnityEngine.ParticleSystemModule_CodeGen.c
+  Assembly-CSharp_CodeGen.c
+  Il2CppCodeRegistration.cpp
+  huffman.c
+  UnityEngine.VFXModule_CodeGen.c
+  Unity.XR.OpenXR.Features.ConformanceAutomation_CodeGen.c
+  UnityEngine.AudioModule_CodeGen.c
+  UnityEngine.UnityAnalyticsModule_CodeGen.c
+  Unity.XR.OpenXR.Features.OculusQuestSupport.cpp
+  UnityEngine.VideoModule_CodeGen.c
+  zutil.c
+  UnityEngine.InputModule_CodeGen.c
+  static_dict.c
+  System.Configuration_CodeGen.c
+  literal_cost.c
+  block_splitter.c
+  adler32.c
+  UnityEngine.IMGUIModule1.cpp
+  memory.c
+  state.c
+  Unity.XR.OpenXR.Features.RuntimeDebugger_CodeGen.c
+  System.Xml.cpp
+  UnityEngine.GridModule.cpp
+  compress_fragment.c
+  UnityEngine.SpriteShapeModule.cpp
+  uncompr.c
+  histogram.c
+  UnityEngine.UnityWebRequestModule_CodeGen.c
+  System.Runtime.WindowsRuntime.UI.Xaml_CodeGen.c
+  utf8_util.c
+  UnityAdsStubs.cpp
+  UnityEngine.JSONSerializeModule_CodeGen.c
+  UnityEngine.DirectorModule_CodeGen.c
+  krait_signal_handler.c
+  UnityEngine.AIModule_CodeGen.c
+  Il2CppMetadataRegistration.c
+  cluster.c
+  UnityEngine.VRModule_CodeGen.c
+  bit_reader.c
+  Unity.XR.OpenXR.Features.OculusQuestSupport_CodeGen.c
+  Unity.XR.OpenXR.Features.MetaQuestSupport_CodeGen.c
+  System.Xml_CodeGen.c
+  UnityEngine.GridModule_CodeGen.c
+  backward_references.c
+  System.Numerics.Vectors.cpp
+  netstandard.cpp
+  System.IO.Compression.cpp
+  bit_cost.c
+  Lump_libil2cpp_utils.cpp
+  System.Runtime.cpp
+  System.ObjectModel.cpp
+  Lump_libil2cpp_vm-utils.cpp
+  System.Runtime.InteropServices.WindowsRuntime_CodeGen.c
+  UnityEngine.cpp
+  System.Runtime.InteropServices.WindowsRuntime.cpp
+  il2cpp-benchmark-support.cpp
+  gzclose.c
+  UnityEngine.SpriteShapeModule_CodeGen.c
+  UnityEngine.AssetBundleModule_CodeGen.c
+  Lump_libil2cpp_icalls.cpp
+  System.Runtime_CodeGen.c
+  System.Numerics.Vectors_CodeGen.c
+  System.IO.Compression_CodeGen.c
+  netstandard_CodeGen.c
+  System.ObjectModel_CodeGen.c
+  UnityEngine_CodeGen.c
+  Lump_libil2cpp_debugger.cpp
+  il2cpp-runtime-stats.cpp
+  Lump_libil2cpp_metadata.cpp
+  Lump_libil2cpp_gc.cpp
+  Lump_libil2cpp_codegen.cpp
+  gc.c
+  Lump_libil2cpp_mono.cpp
+  Lump_libil2cpp_vm.cpp
+  Lump_libil2cpp_os.cpp
+  ObjectFiles: 445 of which compiled: 445
+  	Time Compile: 16520 milliseconds mscorlib18.cpp
+  	Time Compile: 14182 milliseconds System2.cpp
+  	Time Compile: 11393 milliseconds Il2CppCCWs63.cpp
+  	Time Compile: 10931 milliseconds Il2CppInvokerTable.cpp
+  	Time Compile: 10640 milliseconds UnityEngine.TextCoreTextEngineModule1.cpp
+  	Time Compile: 9858 milliseconds UnityEngine.TextCoreTextEngineModule.cpp
+  	Time Compile: 9166 milliseconds Unity.InputSystem4.cpp
+  	Time Compile: 8182 milliseconds Il2CppPCCWMethods.cpp
+  	Time Compile: 7921 milliseconds Lump_libil2cpp_os.cpp
+  	Time Compile: 7559 milliseconds UnityEngine.UIElementsModule6.cpp
+  Total compilation time: 64236 milliseconds.
+  Creating library E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\build\obj\il2cppOutputProject\ARM64\Release\linkresult_9F73DDAC64DC7820280A5E899D89724B\GameAssembly.lib and object E:\UnityProjects\Unity XR Hands\UnityXRHands-main\Builds\HoloUnityHand\build\obj\il2cppOutputProject\ARM64\Release\linkresult_9F73DDAC64DC7820280A5E899D89724B\GameAssembly.exp
+  Total link time: 5630 milliseconds.
+  Cleaned up 1 object files.
