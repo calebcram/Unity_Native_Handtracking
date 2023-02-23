@@ -10,5 +10,5 @@
 ![Quest2UnityNativeHandTraccking](https://user-images.githubusercontent.com/49875750/220800085-fca7881e-165d-42ac-953e-f30e9fad0218.gif)
 
 
-Shoutout to Joost van Schaik for his blogpost documenting the process for getting Unity XR hands to work on HoloLens and Quest in a bare bones project, I've linked to his original [repository here](https://localjoost.github.io/Getting-Unity-XR-hands-to-work-on-HoloLens-and-Quest-in-a-bare-bones-project/)
+Shoutout to Joost van Schaik for his blogpost documenting the process for getting Unity XR hands to work on HoloLens and Quest in a bare bones project, I've linked to his original [repository here](https://localjoost.github.io/Getting-Unity-XR-hands-to-work-on-HoloLens-and-Quest-in-a-bare-bones-project/).
 
