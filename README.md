@@ -5,3 +5,7 @@
 
 ![HoloLens2UnityNativeHandTraccking](https://user-images.githubusercontent.com/49875750/220799958-9f13e98b-312e-45f7-b803-60808472c892.gif)
 
+[Testing on Quest 2](https://www.youtube.com/watch?v=3eH9Yd7lRrM)
+
+![Quest2UnityNativeHandTraccking](https://user-images.githubusercontent.com/49875750/220800085-fca7881e-165d-42ac-953e-f30e9fad0218.gif)
+
